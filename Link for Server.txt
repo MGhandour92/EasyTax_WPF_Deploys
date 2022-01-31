@@ -1,0 +1,1 @@
+SWD 64bit: https://raw.githubusercontent.com/MGhandour92/EasyTax_WPF_Deploys/gh-pages/SWD/64%20bit/Installer/
