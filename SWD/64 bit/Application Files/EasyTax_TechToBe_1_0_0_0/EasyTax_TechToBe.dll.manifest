@@ -60,7 +60,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>n54JyaXDgOwR4azGqre64hSmf28zT++fb5bqWpfxF7c=</dsig:DigestValue>
+      <dsig:DigestValue>J+/fepJJEpqH1MLhZhWUcsdE3Brv/QtmnHfangw6SoI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DAL_Oracle.pdb" size="13292">
@@ -78,7 +78,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>sSaFIMNSwSUzTY22QdwR9yjIQsQC1bryKT3aIlSF7kE=</dsig:DigestValue>
+      <dsig:DigestValue>2UL3OGQfdQ83+w4eSeUXwXKra6BIrEnp9aLLPwaom7A=</dsig:DigestValue>
     </hash>
   </file>
   <file name="favicon.ico" size="23360">

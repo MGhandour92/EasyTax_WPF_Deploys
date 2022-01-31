@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://github.com/MGhandour92/EasyTax_WPF_Deploys/raw/gh-pages/SWD/64%20bit/setup.exe/EasyTax_TechToBe.application" />
+    <deploymentProvider codebase="https://github.com/MGhandour92/EasyTax_WPF_Deploys/raw/gh-pages/SWD/64%20bit/EasyTax_TechToBe.application/EasyTax_TechToBe.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
@@ -21,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/bMPzNVHlXLIO6e++heIysS7K4+ckVk7qn11uD3hwh4=</dsig:DigestValue>
+        <dsig:DigestValue>m8BtcoPtw19oOQYHepcCCTztGVap+UZXwrBW2cDaGO8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
